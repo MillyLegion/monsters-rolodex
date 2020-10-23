@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MillyLegion.github.io/monsters-rolodex",
+  "homepage": "https://millylegion.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
